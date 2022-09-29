@@ -1,0 +1,53 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    padding-top: 30px;
+}
+
+.container{
+    width: 50%;
+    text-align: center;
+}
+
+.title {
+    color: rgb(10, 167, 230);
+    text-align: center;
+    font-size: 40px;
+}
+
+.sub-title {
+    color: rgb(10, 167, 230);
+    text-align: center;
+    font-size: 32px;
+}
+
+.paragraph {
+    color: #06064e;
+    font-size: 16px;
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.list-item, .ul-list-item{
+    font-size: 16px;
+    padding-top: 5px;
+    color: #06064e;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #3636e6;
+}
+
+img {
+    width: 100px;
+}
